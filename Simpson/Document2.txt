@@ -1,0 +1,5 @@
+#Simposon
+This algorithm uses the Simpson 1/3 rule to integrate a set of data.
+x- values depicting the spacing between each y value along the x axis
+y- the data points for each corresponding x value
+I- the integral of the data

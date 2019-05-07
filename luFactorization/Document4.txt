@@ -1,0 +1,7 @@
+#LU Factorization
+This function calculates the lower, upper, and pivot matricies of a given square coefficient matrix
+
+A= square coefficient matrix
+L= Lower matrix
+U= Upper matrix
+P= Pivot matrix
